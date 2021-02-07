@@ -1,0 +1,16 @@
+{
+        "compilerOptions": {
+        "target": "es5",
+        "outDir": "./dist",
+        "rootDir": "./",
+        "module": "commonjs",
+        "sourceMap": true,
+        "typeRoots": ["node_modules/@types/"],
+        "strict": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": false,
+        "alwaysStrict": true
+        },
+        "exclude": ["node_modules", "dist", "__tests__"]
+}
