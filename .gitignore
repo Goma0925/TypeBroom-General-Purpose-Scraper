@@ -1,5 +1,3 @@
-./node_modules/
-./dist/
-./crawlers/
-../.vscode/*
-../job-crawler-js/*
+/node_modules/
+/dist/
+/crawlers/
